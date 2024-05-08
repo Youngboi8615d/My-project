@@ -1,1 +1,1 @@
-# My-project
+the project is all about fashion product dataset. its shows all what you need to know about their store and there mode of customer satisfaction. I used SQL to run some queries which shows some insight you need to now from the dataset
